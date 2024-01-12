@@ -4,7 +4,8 @@ import HomePage from "../../features/home/homePage";
 import Catalog from "../../catalog/Catalog";
 import ProductDetails from "../../catalog/productDetails";
 import AboutPage from "../../features/about/aboutPage";
-import { ContactPage } from "@mui/icons-material";
+import ContactPage from "../../features/contact/contactPage";
+
 
 export const router = createBrowserRouter([
     {
