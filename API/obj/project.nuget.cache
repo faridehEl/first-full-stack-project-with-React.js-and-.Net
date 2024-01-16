@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fEx24mCJdh5GvliW0kSBn/vDUUmAgfZrhR/z3Vio/xDHfjrbD5MZMb0OWNUWQoBhjW7UBfjjBrXFp5mxAXFtVw==",
+  "dgSpecHash": "JI5Zd3k9jMWExL4JsFbhkXYTSW37ahBJDOql1WO5vvWhHRh3naeeVnb8ue6K3ma6bwNPeju4mvW+nqEdWCT8bA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hriva\\OneDrive\\Desktop\\faride web\\udemi\\full stack\\api\\API.csproj",
+  "projectFilePath": "C:\\Users\\hriva\\OneDrive\\Desktop\\faride web\\udemi\\full stack\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hriva\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\hriva\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
