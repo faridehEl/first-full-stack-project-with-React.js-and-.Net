@@ -24,7 +24,7 @@ export default function productDetails(){
             <Grid item xs={6}>
                 <Typography variant="h5">{product.name}</Typography>
                 <Divider sx={{marginTop:1}}></Divider>
-                <Typography variant="h6" sx={{marginTop:1, color:'grey.700'}}>${(product.price /100).toFixed(2)}</Typography>
+                <Typography variant="h6" sx={{marginTop:1, color:'#01579b'}}>${(product.price /100).toFixed(2)}</Typography>
                 <TableContainer>
                     <Table>
                         <TableBody>
