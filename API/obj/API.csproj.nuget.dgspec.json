@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hriva\\OneDrive\\Desktop\\faride web\\udemi\\full stack\\API\\API.csproj": {}
+    "C:\\Users\\hriva\\OneDrive\\Desktop\\faride web\\udemi\\full stack\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hriva\\OneDrive\\Desktop\\faride web\\udemi\\full stack\\API\\API.csproj": {
+    "C:\\Users\\hriva\\OneDrive\\Desktop\\faride web\\udemi\\full stack\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hriva\\OneDrive\\Desktop\\faride web\\udemi\\full stack\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\hriva\\OneDrive\\Desktop\\faride web\\udemi\\full stack\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\hriva\\OneDrive\\Desktop\\faride web\\udemi\\full stack\\API\\API.csproj",
+        "projectPath": "C:\\Users\\hriva\\OneDrive\\Desktop\\faride web\\udemi\\full stack\\api\\API.csproj",
         "packagesPath": "C:\\Users\\hriva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hriva\\OneDrive\\Desktop\\faride web\\udemi\\full stack\\API\\obj\\",
+        "outputPath": "C:\\Users\\hriva\\OneDrive\\Desktop\\faride web\\udemi\\full stack\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hriva\\AppData\\Roaming\\NuGet\\NuGet.Config"
